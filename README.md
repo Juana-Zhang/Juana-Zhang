@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🤔 Analytical Skills: Data Cleaning, Data Visualization, Data Mining, Statistical Modeling, Time Series Analysis, Supervised/Unsupervised Learning, AB Testing, Experimental Design 
 - 📫 Project Management: Cross-functional Projects Management, Stakeholder Communication
 - 📄 Professional Certificate: Fund Practitioner Qualification Certificate, Securities Practitioner Qualification Certificate
-- 📮 How to reach me: juanazhang919@brandeis.edu/☎️ 1-8573547860
+- 📮 How to reach me: juanazhang919@brandeis.edu/☎️ 1-8573547860/ Linkedin:https://www.linkedin.com/in/juanazhang/
 -->
