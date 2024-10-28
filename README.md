@@ -8,6 +8,6 @@
 - 📫 Project Management: Cross-functional Projects Management, Stakeholder Communication
 - 📄 Professional Certificate: Fund Practitioner Qualification Certificate, Securities Practitioner Qualification Certificate
 - 📮 How to reach me: juanazhang919@brandeis.edu/☎️ 1-8573547860/ Linkedin:https://www.linkedin.com/in/juanazhang/
-- [Download My Resume](https://github.com/Juana-Zhang/Juana-Zhang/raw/main/Zhang.Nuonan_Resume-%2010.13.pdf)
+- 📄 You can Download my resume[Here](https://github.com/Juana-Zhang/Juana-Zhang/raw/main/Zhang.Nuonan_Resume-%2010.13.pdf)
   
 
