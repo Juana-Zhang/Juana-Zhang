@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 Who I am：With 5 year work experience in product  and strategic operations in tech companies.I’m currently 1st year master's student of Business Analytics of Brandeis University(expected graduation date:02/2026)
+🔭 Who I am：With 5 year work experience in product  and strategic operations in tech companies.I’m currently 1st year master's student of Business Analytics of Brandeis University(expected graduation date:12/2025)
 
 - 🎯 Looking for data analyst/ data scientist,product analyst internship opportunity
 - 🧑‍💻 Programming Languages: SQL, Python, R, SPSS, Tableau, Power BI, Excel (PivotTables and V-lookups)
