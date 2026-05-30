@@ -7,7 +7,7 @@
 - 🤔 Analytical Skills: Data Cleaning, Data Visualization, Data Mining, Statistical Modeling, Time Series Analysis, Supervised/Unsupervised Learning, AB Testing, Experimental Design 
 - 📫 Project Management: Cross-functional Projects Management, Stakeholder Communication
 - 📄 Professional Certificate: Fund Practitioner Qualification Certificate, Securities Practitioner Qualification Certificate
-- 📮 How to reach me: juanazhang919@gmail.com/☎️ 1-8573547860/ Linkedin:https://www.linkedin.com/in/juanazhang/
+- 📮 How to reach me: juanazhang09@gmail.com/☎️ 1-8573547860/ Linkedin:https://www.linkedin.com/in/juanazhang/
 - 📄 You can Download my resume [Here](https://github.com/Juana-Zhang/Juana-Zhang/raw/main/Zhang.Nuonan_Resume-%2010.13.pdf)
   
 
