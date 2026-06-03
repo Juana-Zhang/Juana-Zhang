@@ -15,5 +15,5 @@ Growth Analytics | Product Analytics | Product Data Science
 
 📫 juanazhang09@gmail.com  
 🔗 linkedin.com/in/juanazhang
-  
+📄 Resume: [Download here](./Nuonan_Zhang_Resume_2026.pdf)
 
